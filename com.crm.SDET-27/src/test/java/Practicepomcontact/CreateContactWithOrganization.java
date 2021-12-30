@@ -84,9 +84,9 @@ public class CreateContactWithOrganization {
         CreateOrganizationPage cop =  new CreateOrganizationPage(driver);
         cop.createorg(orgName);
 	   
-	    //wait for element to active 
+	    /*wait for element to active 
 	    wLib.waitForElementToBeClickAble(driver,);
-	    
+	    */
 	    //Navigate to contact module
 	     driver.findElement(By.linkText("Contacts")).click();
 	    //click on cretae contact button
