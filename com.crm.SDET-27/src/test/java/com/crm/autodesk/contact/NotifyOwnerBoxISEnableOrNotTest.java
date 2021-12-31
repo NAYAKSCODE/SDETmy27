@@ -29,7 +29,7 @@ import com.crm.autodesk.genericutility.JavaUtility;
 import com.crm.autodesk.genericutility.WebDriverUtility;
 
 
-public class NotifyOwnerBoxISEnableOrNot extends BaseClass {
+public class NotifyOwnerBoxISEnableOrNotTest extends BaseClass {
 
 	@Test(groups= {"regressionTest"})
 

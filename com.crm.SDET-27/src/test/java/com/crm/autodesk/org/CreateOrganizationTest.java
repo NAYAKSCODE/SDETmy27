@@ -9,7 +9,7 @@ import com.crm.autodesk.ObjectRepository.OrganizationsPage;
 import com.crm.autodesk.genericutility.BaseClass;
 
 public class CreateOrganizationTest extends BaseClass {
-	@Test(groups= {"smokeTest"})
+	@Test(groups= {"smokeTest", "regressionTest"})
 	public void createOrgTest() throws Throwable
 	{
 		//get random number

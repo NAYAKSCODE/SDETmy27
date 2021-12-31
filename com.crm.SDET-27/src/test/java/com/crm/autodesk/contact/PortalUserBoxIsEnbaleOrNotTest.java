@@ -28,7 +28,7 @@ import com.crm.autodesk.genericutility.FileUtility;
 import com.crm.autodesk.genericutility.JavaUtility;
 import com.crm.autodesk.genericutility.WebDriverUtility;
 
-public class PortalUserBoxIsEnbaleOrNot extends BaseClass{
+public class PortalUserBoxIsEnbaleOrNotTest extends BaseClass{
 @Test(groups= {"regressionTest"})
 	public void PortalUserBoxTest()throws Throwable {
 		//get random data

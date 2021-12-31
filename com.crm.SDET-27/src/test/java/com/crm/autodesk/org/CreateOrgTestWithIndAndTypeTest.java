@@ -17,7 +17,7 @@ import com.crm.autodesk.genericutility.FileUtility;
 import com.crm.autodesk.genericutility.JavaUtility;
 import com.crm.autodesk.genericutility.WebDriverUtility;
 
-public class CreateOrgTestWithIndAndType extends BaseClass {
+public class CreateOrgTestWithIndAndTypeTest extends BaseClass {
 	@Test(groups= {"regressionTest"})
 	public  void CreateOrgWithind() throws Throwable {
 	    //get random number
